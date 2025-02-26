@@ -5,6 +5,10 @@
     font-family: sans-serif;
 }
 
+body{
+    background-color: #555;
+}
+
 .circle{
     width: 100px;
     height: 100px;
