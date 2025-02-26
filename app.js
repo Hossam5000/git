@@ -1,6 +1,6 @@
-const circle = document.querySelector('.circle');
+const square = document.querySelector('.square');
 console.log('test');
 
-circle.addEventListener("click", () =>{
-    circle.style.backgroundColor = 'blue';
+square.addEventListener("click", () =>{
+    square.style.backgroundColor = 'blue';
 });
