@@ -4,3 +4,10 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 50%;
+}
