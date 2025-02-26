@@ -5,9 +5,10 @@
     font-family: sans-serif;
 }
 
-.square{
+.circle{
     width: 100px;
     height: 100px;
-    background-color: green;
+    background-color: purple;
+    border-radius: 50%;
     cursor: pointer;
 }
