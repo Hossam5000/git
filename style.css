@@ -12,3 +12,19 @@
     border-radius: 50%;
     cursor: pointer;
 }
+
+.payout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 500px;
+    background-color: red;
+}
+
+.payout #range{
+    display: block;
+}
