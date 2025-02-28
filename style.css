@@ -13,12 +13,9 @@ h2{
     color: #fff;
 }
 
-.circle{
-    width: 100px;
-    height: 100px;
-    background-color: purple;
-    border-radius: 50%;
-    cursor: pointer;
+.price{
+    font-size: 50px;
+    color: orange;
 }
 
 .card{
