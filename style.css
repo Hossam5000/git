@@ -9,6 +9,10 @@ body{
     background-color: #555;
 }
 
+h2{
+    color: #fff;
+}
+
 .circle{
     width: 100px;
     height: 100px;
