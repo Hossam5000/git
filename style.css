@@ -9,6 +9,21 @@ body{
     background-color: #555;
 }
 
+h2{
+    color: #fff;
+}
+
+.price{
+    font-size: 50px;
+    color: orange;
+}
+
+.card{
+    width: 200px;
+    height: 300px;
+    margin-top: 50px;
+    background-color: blue;
+    border-radius: 20px;
 .circle{
     width: 100px;
     height: 100px;
